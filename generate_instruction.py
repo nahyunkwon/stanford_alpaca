@@ -2,10 +2,7 @@
 batch_selfinstruct_generate.py
 
 run:
-python -m generate_instruction generate_instruction_following_data \
-  --output_dir ./ \
-  --num_instructions_to_generate 10 \
-  --model_name="text-davinci-003" \
+python3 -m generate_instruction generate_instruction_following_data --output_dir ./ --num_instructions_to_generate 10 --model_name="text-davinci-003"
 """
 import time
 import json
@@ -22,6 +19,9 @@ from rouge_score import rouge_scorer
 import utils
 
 import fire
+import openai
+
+openai.api_key = "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"
 
 
 def encode_prompt(prompt_instructions):
@@ -109,8 +109,8 @@ def find_word_in_string(w, s):
 
 def generate_instruction_following_data(
     output_dir="./",
-    seed_tasks_path="./seed_tasks.jsonl",
-    num_instructions_to_generate=100,
+    seed_tasks_path="./seed_tasks_access.jsonl",
+    num_instructions_to_generate=20,
     model_name="text-davinci-003",
     num_prompt_instructions=3,
     request_batch_size=5,
