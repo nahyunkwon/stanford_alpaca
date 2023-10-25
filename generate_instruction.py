@@ -21,7 +21,6 @@ import utils
 import fire
 import openai
 
-openai.api_key = "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"
 
 
 def encode_prompt(prompt_instructions):
