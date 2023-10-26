@@ -21,7 +21,7 @@ import utils
 import fire
 import openai
 
-
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def encode_prompt(prompt_instructions):
     """Encode multiple prompt instructions into a single string."""
@@ -109,7 +109,7 @@ def find_word_in_string(w, s):
 def generate_instruction_following_data(
     output_dir="./",
     seed_tasks_path="./seed_tasks_access.jsonl",
-    num_instructions_to_generate=20,
+    num_instructions_to_generate=10,
     model_name="text-davinci-003",
     num_prompt_instructions=3,
     request_batch_size=5,

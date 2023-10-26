@@ -1,0 +1,1241 @@
+[
+    {
+        "instruction": "Given this object, how can we make it more accessible?",
+        "input": "object: bicycle",
+        "output": "In order to make bicycles more accessible, it is important to consider the physical capabilities of the intended user. If the user has limited mobility, special equipment could be added to make the bike easier to mount, such as add-on assistive devices. For those with visual impairments, the bike could be equipped with audio guidance systems or reflective tape to make it easier to navigate.",
+        "most_similar_instructions": {
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.3448275862068966,
+            "In which contexts this object can be inaccessible?": 0.33333333333333326,
+            "How this object can be inaccessible in this context?": 0.3157894736842105,
+            "In which contexts this space can be inaccessible?": 0.22222222222222224,
+            "How can I improve this object's accessibility challenges? ": 0.2105263157894737,
+            "What are the solutions for this object under this context?": 0.20000000000000004,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.16666666666666666,
+            "Which everyday objects can be inaccessible in this indoor space?": 0.10000000000000002
+        },
+        "avg_similarity_score": 0.23667069973785038
+    },
+    {
+        "instruction": "Name one way to make this object more accessible.",
+        "input": "object: books",
+        "output": "Making books more accessible could mean providing audio versions of the books so that people who are visually impaired can still enjoy them. Additionally, providing tactile versions of books with raised images or braille texts printed on them can also make them more accessible to people who are visually impaired or have physical disabilities.",
+        "most_similar_instructions": {
+            "Given this object, how can we make it more accessible?": 0.4210526315789474,
+            "In which contexts this object can be inaccessible?": 0.23529411764705882,
+            "How can I improve this object's accessibility challenges? ": 0.2222222222222222,
+            "How this object can be inaccessible in this context?": 0.2222222222222222,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.21428571428571427,
+            "What are the solutions for this object under this context?": 0.2105263157894737,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.17391304347826086,
+            "In which contexts this space can be inaccessible?": 0.11764705882352941,
+            "Which everyday objects can be inaccessible in this indoor space?": 0.10526315789473685
+        },
+        "avg_similarity_score": 0.21360294266024063
+    },
+    {
+        "instruction": "How can we enhance this object to make it more accessible?",
+        "input": "object: hats",
+        "output": "Hats can be made more accessible by adding adjustable features. For example, adding velcro straps to the back of the hat can help those with limited motor ability or those with disabilities that make it hard to adjust items. Additionally, making the hats out of lightweight and breathable fabric could make them more comfortable and accessible to those who have limited motor ability.",
+        "most_similar_instructions": {
+            "Given this object, how can we make it more accessible?": 0.6666666666666666,
+            "Name one way to make this object more accessible.": 0.39999999999999997,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.39999999999999997,
+            "How can I improve this object's accessibility challenges? ": 0.39999999999999997,
+            "How this object can be inaccessible in this context?": 0.3,
+            "In which contexts this object can be inaccessible?": 0.2105263157894737,
+            "What are the solutions for this object under this context?": 0.1904761904761905,
+            "Which everyday objects can be inaccessible in this indoor space?": 0.1904761904761905,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.16,
+            "In which contexts this space can be inaccessible?": 0.10526315789473685
+        },
+        "avg_similarity_score": 0.3023408521303258
+    },
+    {
+        "instruction": "Describe an example of how we can make this object accessible.",
+        "input": "object: telephone",
+        "output": "Making a telephone accessible could include adding text to speech functionality so that those who are visually impaired can see the numbers and hear the conversation. Additionally, adding a hands-free headset could make the phone easier to use for those with physical disabilities.",
+        "most_similar_instructions": {
+            "How can we enhance this object to make it more accessible?": 0.45454545454545453,
+            "Name one way to make this object more accessible.": 0.39999999999999997,
+            "How can I improve this object's accessibility challenges? ": 0.39999999999999997,
+            "Given this object, how can we make it more accessible?": 0.380952380952381,
+            "How this object can be inaccessible in this context?": 0.3,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.26666666666666666,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.23999999999999996,
+            "In which contexts this object can be inaccessible?": 0.2105263157894737,
+            "What are the solutions for this object under this context?": 0.1904761904761905,
+            "Which everyday objects can be inaccessible in this indoor space?": 0.1904761904761905
+        },
+        "avg_similarity_score": 0.28535512334555396
+    },
+    {
+        "instruction": "Suggest how to make this object easier to use.",
+        "input": "object: scissors",
+        "output": "Making scissors easier to use could include adding a handle onto the blades to create a larger surface area for a better grip. Additionally, adjustable loops on the handles can enable those with limited motor ability to use them.",
+        "most_similar_instructions": {
+            "Name one way to make this object more accessible.": 0.4444444444444444,
+            "Describe an example of how we can make this object accessible.": 0.39999999999999997,
+            "How can we enhance this object to make it more accessible?": 0.39999999999999997,
+            "How can I improve this object's accessibility challenges? ": 0.3333333333333333,
+            "How this object can be inaccessible in this context?": 0.3333333333333333,
+            "In which contexts this object can be inaccessible?": 0.23529411764705882,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.21428571428571427,
+            "Given this object, how can we make it more accessible?": 0.2105263157894737,
+            "What are the solutions for this object under this context?": 0.2105263157894737,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.17391304347826086
+        },
+        "avg_similarity_score": 0.2648805695682799
+    },
+    {
+        "instruction": "Describe an example of an augmentation for this object.",
+        "input": "object: book",
+        "output": "One example of a useful augmentation for a book could be creating a tactile version that raised images or braille texts printed on it. This can make it more accessible to people who are visually impaired or have physical disabilities. Additionally, adding audible versions of the book can make it easier to follow and enjoy for those with visual impairments.",
+        "most_similar_instructions": {
+            "Describe an example of how we can make this object accessible.": 0.6,
+            "What are the solutions for this object under this context?": 0.3157894736842105,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.2857142857142857,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.2608695652173913,
+            "In which contexts this object can be inaccessible?": 0.23529411764705882,
+            "Suggest how to make this object easier to use.": 0.2222222222222222,
+            "Name one way to make this object more accessible.": 0.2222222222222222,
+            "How can I improve this object's accessibility challenges? ": 0.2222222222222222,
+            "How this object can be inaccessible in this context?": 0.2222222222222222,
+            "Given this object, how can we make it more accessible?": 0.2105263157894737
+        },
+        "avg_similarity_score": 0.24769175874304425
+    },
+    {
+        "instruction": "How can we make this object more inclusive?",
+        "input": "object: hockey puck",
+        "output": "Making a hockey puck more inclusive could include adding colors to the side of the puck to make it easier to identify for those with colorblindness or visual impairments. Additionally, creating different sizes of the pucks to cater for individual sizes and preferences can ensure that it is inclusive for those with various hand sizes and preferences.",
+        "most_similar_instructions": {
+            "How can we enhance this object to make it more accessible?": 0.631578947368421,
+            "Given this object, how can we make it more accessible?": 0.5555555555555556,
+            "Describe an example of how we can make this object accessible.": 0.5263157894736842,
+            "Suggest how to make this object easier to use.": 0.47058823529411764,
+            "Name one way to make this object more accessible.": 0.47058823529411764,
+            "How can I improve this object's accessibility challenges? ": 0.47058823529411764,
+            "How this object can be inaccessible in this context?": 0.35294117647058826,
+            "In which contexts this object can be inaccessible?": 0.25,
+            "Describe an example of an augmentation for this object.": 0.23529411764705882,
+            "What are the solutions for this object under this context?": 0.22222222222222224
+        },
+        "avg_similarity_score": 0.3473472190577454
+    },
+    {
+        "instruction": "How can we modify this object to make it easier for people with disabilities?",
+        "input": "object: computer",
+        "output": "Modifying a computer to make it more accessible for those with disabilities can include adding features like voice recognition to make interacting with the computer easier. Additionally, augmentations such as a foot mouse or arm attachments can be used to make the computer easier to use for those with limited motor ability.",
+        "most_similar_instructions": {
+            "How can we enhance this object to make it more accessible?": 0.64,
+            "How can we make this object more inclusive?": 0.45454545454545453,
+            "Given this object, how can we make it more accessible?": 0.41666666666666663,
+            "Suggest how to make this object easier to use.": 0.34782608695652173,
+            "How can I improve this object's accessibility challenges? ": 0.34782608695652173,
+            "Describe an example of how we can make this object accessible.": 0.32,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.30303030303030304,
+            "How this object can be inaccessible in this context?": 0.2608695652173913,
+            "In which contexts this object can be inaccessible?": 0.18181818181818182,
+            "Describe an example of an augmentation for this object.": 0.17391304347826086
+        },
+        "avg_similarity_score": 0.2791671999498086
+    },
+    {
+        "instruction": "Provide one example of how this object can be modified to make it more accessible for people with disabilities.",
+        "input": "object: laptop",
+        "output": "Making a laptop more accessible for those with disabilities can include adding a larger track pad and full size ergonomic keyboard that allow for easier typing. Additionally, augmentations such as a switch-equipped joystick or a sip/puff control can make laptops easier to use for those with physical disabilities.",
+        "most_similar_instructions": {
+            "How can we modify this object to make it easier for people with disabilities?": 0.6060606060606061,
+            "How can we enhance this object to make it more accessible?": 0.5333333333333333,
+            "Given this object, how can we make it more accessible?": 0.48275862068965514,
+            "Describe an example of how we can make this object accessible.": 0.39999999999999997,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.3684210526315789,
+            "Name one way to make this object more accessible.": 0.35714285714285715,
+            "How this object can be inaccessible in this context?": 0.35714285714285715,
+            "How can we make this object more inclusive?": 0.2962962962962963,
+            "In which contexts this object can be inaccessible?": 0.2962962962962963,
+            "Describe an example of an augmentation for this object.": 0.2857142857142857
+        },
+        "avg_similarity_score": 0.32269179239460544
+    },
+    {
+        "instruction": "Name one practicable augmentation that can be added to this object.",
+        "input": "object: chair",
+        "output": "One practicable augmentation that can be added to a chair is a weight-sensing mechanism. This mechanism can help those with physical disabilities sit comfortably and securely on the chair, and it can be triggered with a special switch. Additionally, you could add adjustable arms or a large arm rest to make the chair more comfortable and accessible to those with physical disabilities.",
+        "most_similar_instructions": {
+            "Name one way to make this object more accessible.": 0.5,
+            "How can we make this object more inclusive?": 0.3157894736842105,
+            "How can I improve this object's accessibility challenges? ": 0.3,
+            "Describe an example of an augmentation for this object.": 0.3,
+            "Suggest how to make this object easier to use.": 0.3,
+            "How this object can be inaccessible in this context?": 0.3,
+            "Which everyday objects can be inaccessible in this indoor space?": 0.28571428571428564,
+            "Describe an example of how we can make this object accessible.": 0.2727272727272727,
+            "How can we enhance this object to make it more accessible?": 0.2727272727272727,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.26666666666666666
+        },
+        "avg_similarity_score": 0.26170372455202173
+    },
+    {
+        "instruction": "Explain the differences between these two terms.",
+        "input": "terms: accessible and usable",
+        "output": "Accessibility and usability are two terms that can often be confused. Accessibility is typically used to refer to how well a product works with different disabilities, while usability focuses on the overall effectiveness and efficiency of a product for all users, regardless of ability or disability. Accessible design means that people with disabilities can use a product, while usable design means a product is easy to use for all users. Accessibility ensures that a product is designed for people with disabilities, while usability ensures a product is designed for all people, regardless of disability.",
+        "most_similar_instructions": {
+            "What are the solutions for this object under this context?": 0.11764705882352941,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.09523809523809523,
+            "Name one practicable augmentation that can be added to this object.": 0.0,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.0,
+            "How this object can be inaccessible in this context?": 0.0,
+            "In which contexts this space can be inaccessible?": 0.0,
+            "In which contexts this object can be inaccessible?": 0.0,
+            "How can I improve this object's accessibility challenges? ": 0.0,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.0,
+            "Given this object, how can we make it more accessible?": 0.0
+        },
+        "avg_similarity_score": 0.01182695300342359
+    },
+    {
+        "instruction": "Generate a situation in which object1 can help people, but object2 can't.",
+        "input": "object1: door with a lever door knob\nobject2: door with a round door knob",
+        "output": "A situation in which a door with a lever door knob can help people, but a door with a round door knob can't, is when someone has a hand injury or disability and isn't able to operate a regular door knob. Due to the nature of a lever door knob, it requires less gripping power and strength and it also allows alternative operation with arms. However, the round door knob requires more gripping power and strength as well as only offering rotational operation. Thus, someone with a hand injury cannot open the door with a round door knob but they can open it with a lever door knob.",
+        "most_similar_instructions": {
+            "In which contexts this space can be inaccessible?": 0.2857142857142857,
+            "In which contexts this object can be inaccessible?": 0.2857142857142857,
+            "Which everyday objects can be inaccessible in this indoor space?": 0.17391304347826086,
+            "How can we modify this object to make it easier for people with disabilities?": 0.14814814814814817,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.125,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.125,
+            "How can we make this object more inclusive?": 0.09523809523809525,
+            "How this object can be inaccessible in this context?": 0.09090909090909093,
+            "How can I improve this object's accessibility challenges? ": 0.09090909090909093,
+            "Given this object, how can we make it more accessible?": 0.08695652173913043
+        },
+        "avg_similarity_score": 0.09250013483423095
+    },
+    {
+        "instruction": "What can be the consequences of insufficient accessibility?",
+        "input": "",
+        "output": "Insufficient accessibility can have numerous consequences. First, it creates a lack of access to opportunities for people with disabilities. Without access to buildings, products, technology, and services, people with disabilities may be excluded from stores, housing, schools, workplaces, and other public places. Second, insufficient access can lead to an increased burden on caregivers and families, as they must take on extra work to accommodate the needs of their family members. Third, it can lead to loss of economic, cultural, and individual opportunities, as people with disabilities are not able to participate in activities or experiences. Fourth, it can lead to increased incidents of loneliness, depression, and other mental health issues, as people with disabilities may have difficulty connecting with others and feeling included. Finally, it can lead to increased reliance on government assistance programs, resulting in additional costs to taxpayers.",
+        "most_similar_instructions": {
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.36363636363636365,
+            "In which contexts this space can be inaccessible?": 0.25,
+            "In which contexts this object can be inaccessible?": 0.25,
+            "How this object can be inaccessible in this context?": 0.23529411764705882,
+            "How can I improve this object's accessibility challenges? ": 0.23529411764705882,
+            "Which everyday objects can be inaccessible in this indoor space?": 0.22222222222222224,
+            "What are the solutions for this object under this context?": 0.22222222222222224,
+            "Name one practicable augmentation that can be added to this object.": 0.2105263157894737,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.14814814814814814,
+            "Explain the differences between these two terms.": 0.13333333333333333
+        },
+        "avg_similarity_score": 0.15475912932956276
+    },
+    {
+        "instruction": "Create an example of input that can complete this instruction.",
+        "input": "Instruction: Summarize the features of product A.",
+        "output": "Input: \nProduct A is an innovative customer service chatbot which offers automated 24/7 customer support service. It provides AI-assisted conversations to quickly answer customer queries and address customer issues. It is integrated with a variety of customer service metrics to enable real-time reporting and analytics. It additionally offers intuitive customization features to enable businesses to tailor the chatbot to their specific customer service requirements. Product A is designed to be easily implemented in any existing customer service process.",
+        "most_similar_instructions": {
+            "Describe an example of how we can make this object accessible.": 0.47619047619047616,
+            "Describe an example of an augmentation for this object.": 0.4210526315789474,
+            "Name one practicable augmentation that can be added to this object.": 0.28571428571428564,
+            "How can we make this object more inclusive?": 0.22222222222222224,
+            "How this object can be inaccessible in this context?": 0.2105263157894737,
+            "How can I improve this object's accessibility challenges? ": 0.2105263157894737,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.20689655172413793,
+            "Which everyday objects can be inaccessible in this indoor space?": 0.20000000000000004,
+            "How can we enhance this object to make it more accessible?": 0.1904761904761905,
+            "How can we modify this object to make it easier for people with disabilities?": 0.16666666666666666
+        },
+        "avg_similarity_score": 0.17741359657920178
+    },
+    {
+        "instruction": "Generate a classification task that can be completed by a GPT model.",
+        "input": "",
+        "output": "Classification Task: Using a GPT model, classify whether a given website has a good or bad accessibility score.",
+        "most_similar_instructions": {
+            "Name one practicable augmentation that can be added to this object.": 0.2608695652173913,
+            "Generate a situation in which object1 can help people, but object2 can't.": 0.24000000000000002,
+            "What can be the consequences of insufficient accessibility?": 0.2,
+            "In which contexts this space can be inaccessible?": 0.2,
+            "In which contexts this object can be inaccessible?": 0.2,
+            "How this object can be inaccessible in this context?": 0.1904761904761905,
+            "Create an example of input that can complete this instruction.": 0.1818181818181818,
+            "Which everyday objects can be inaccessible in this indoor space?": 0.1818181818181818,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.12903225806451615,
+            "How can we make this object more inclusive?": 0.1
+        },
+        "avg_similarity_score": 0.10843244604432928
+    },
+    {
+        "instruction": "Explain the fundamentals of user testing.",
+        "input": "",
+        "output": "User testing is a process used to ensure a product or service meets the needs and expectations of the user, by performing tests with actual users. It is important to note that user testing is not about proving the product or service works, but rather evaluating how well it works for the user. User testing typically involves both qualitative and quantitative measures\u2014such as interviews, surveys, focus groups, usability studies\u2014to identify areas that need improvement from the user's perspective, as well as to gain insights into what is and isn\u2019t working with the product. The key goal of user testing is to improve the usability and accessibility of the product, so users can easily and successfully complete their tasks when using the product.",
+        "most_similar_instructions": {
+            "Explain the differences between these two terms.": 0.30769230769230765,
+            "What can be the consequences of insufficient accessibility?": 0.28571428571428575,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.2,
+            "Describe an example of an augmentation for this object.": 0.13333333333333333,
+            "Create an example of input that can complete this instruction.": 0.125,
+            "What are the solutions for this object under this context?": 0.125,
+            "Describe an example of how we can make this object accessible.": 0.11764705882352942,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.08,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.08,
+            "Given this object, how can we make it more accessible?": 0.0
+        },
+        "avg_similarity_score": 0.06323421676362853
+    },
+    {
+        "instruction": "Describe the general process of designing for accessibility.",
+        "input": "",
+        "output": "Designing for accessibility is a process that involves understanding the needs of users with disabilities, as well as taking steps to ensure they have access to the same experiences as all users. This includes researching the target population, understanding laws and regulations related to accessibility, and developing a strategy to make sure the product is fully accessible. During the design phase, attention should be paid to the layout of the interface, the size and font of text, valid HTML and ARIA attributes, color contrast, and keyboard navigation. Following that, the product should be tested by users with disabilities to ensure compliance with the accessibility guidelines and requirements. Finally, ongoing revisions should be made as needed to maintain the product's accessibility.",
+        "most_similar_instructions": {
+            "What can be the consequences of insufficient accessibility?": 0.375,
+            "Describe an example of an augmentation for this object.": 0.35294117647058826,
+            "Explain the fundamentals of user testing.": 0.28571428571428575,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.2727272727272727,
+            "What are the solutions for this object under this context?": 0.22222222222222224,
+            "Describe an example of how we can make this object accessible.": 0.2105263157894737,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.14814814814814814,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.14814814814814814,
+            "Explain the differences between these two terms.": 0.13333333333333333,
+            "How can I improve this object's accessibility challenges? ": 0.11764705882352941
+        },
+        "avg_similarity_score": 0.10285117347488348
+    },
+    {
+        "instruction": "What are some basic principles of web accessibility?",
+        "input": "",
+        "output": "The basic principles of web accessibility include:\n1. Perceivable - Information should be presented in a way that is perceivable by all users, no matter their capabilities.\n2. Operable - Users must be able to operate the product with their preferred method of input.\n3. Understandable - The layout and navigation of the product should be understandable by all users.\n4. Robust - The product should be built using robust web technologies so that it can be used by a variety of assistive technology.",
+        "most_similar_instructions": {
+            "What can be the consequences of insufficient accessibility?": 0.375,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.36363636363636365,
+            "Describe the general process of designing for accessibility.": 0.25,
+            "What are the solutions for this object under this context?": 0.22222222222222224,
+            "Explain the fundamentals of user testing.": 0.14285714285714288,
+            "How can I improve this object's accessibility challenges? ": 0.11764705882352941,
+            "Describe an example of an augmentation for this object.": 0.11764705882352941,
+            "Create an example of input that can complete this instruction.": 0.11111111111111112,
+            "Describe an example of how we can make this object accessible.": 0.10526315789473685,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.07407407407407407
+        },
+        "avg_similarity_score": 0.07814129054067136
+    },
+    {
+        "instruction": "Explain why and how accessibility testing is important.",
+        "input": "",
+        "output": "Accessibility testing is an important step in the development of any product as it is crucial for ensuring that it is useable for people with disabilities. Without it, some users may face considerable difficulty or impossibility in using a product, and consequently may be excluded from the service or experience. Accessibility testing typically involves manual and automated testing to identify, diagnose, and fix issues that make a product inaccessible to people with disabilities. Additionally, accessibility testing is important for conforming to laws and regulations, as well as to build trust from users who require accessible products. In summary, accessibility testing is essential for enabling the wider audience of potential users to access the product.",
+        "most_similar_instructions": {
+            "Explain the fundamentals of user testing.": 0.28571428571428575,
+            "How can I improve this object's accessibility challenges? ": 0.23529411764705882,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.18181818181818182,
+            "Explain the differences between these two terms.": 0.13333333333333333,
+            "What are some basic principles of web accessibility?": 0.125,
+            "How can we make this object more inclusive?": 0.125,
+            "What can be the consequences of insufficient accessibility?": 0.125,
+            "Describe the general process of designing for accessibility.": 0.125,
+            "How this object can be inaccessible in this context?": 0.11764705882352941,
+            "Suggest how to make this object easier to use.": 0.11764705882352941
+        },
+        "avg_similarity_score": 0.08200571931222086
+    },
+    {
+        "instruction": "In what situations this object can't be used?",
+        "input": "object: RFID enabled door locks",
+        "output": "RFID enabled door locks may not be able to be used in certain situations due to technical limitations or incompatibilities. For example, RFID enabled door locks may not be able to connect to low-frequency RFID systems, which can be used in some access control systems. Additionally, RFID enabled door locks may not be able to properly detect RFID cards if the card is covered by metal, such as when tucked in a pocket or wallet. Other technical incompatibilities, such as versions of operating systems and browsers, may prevent RFID enabled door locks from being used in certain situations.",
+        "most_similar_instructions": {
+            "In which contexts this object can be inaccessible?": 0.5882352941176471,
+            "In which contexts this space can be inaccessible?": 0.47058823529411764,
+            "How this object can be inaccessible in this context?": 0.4444444444444444,
+            "What can be the consequences of insufficient accessibility?": 0.35294117647058826,
+            "What are the solutions for this object under this context?": 0.3157894736842105,
+            "Given this object, how can we make it more accessible?": 0.3157894736842105,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.2857142857142857,
+            "Generate a situation in which object1 can help people, but object2 can't.": 0.27272727272727276,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.2608695652173913,
+            "How can we make this object more inclusive?": 0.23529411764705882
+        },
+        "avg_similarity_score": 0.22118389397072036
+    },
+    {
+        "instruction": "Name and explain three different assistive technologies used for accessibility.",
+        "input": "",
+        "output": "Three assistive technologies used to increase accessibility are:\n1. Screen Readers: Screen readers are computer programs used to convert graphical text and images into audio. This allows people who are blind or have low vision to have access to a computer\u2019s operating system and applications.\n2. Alternative Keyboards: Alternative keyboards are designed to enable easier operation and navigation of a computer and its software. This can include keyboards which allow for morethan two or three-key combinations, or keyboards with switches which can be activated by pressing with a hand or head movements. \n3. Magnifiers: Magnifiers are tools which magnify objects, text, or images to make them easier to view. This can be especially helpful for people with low vision.",
+        "most_similar_instructions": {
+            "Explain why and how accessibility testing is important.": 0.22222222222222224,
+            "Describe the general process of designing for accessibility.": 0.22222222222222224,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.16666666666666666,
+            "Explain the fundamentals of user testing.": 0.125,
+            "Explain the differences between these two terms.": 0.11764705882352941,
+            "What are some basic principles of web accessibility?": 0.11111111111111112,
+            "What can be the consequences of insufficient accessibility?": 0.11111111111111112,
+            "In what situations this object can't be used?": 0.10526315789473685,
+            "How can I improve this object's accessibility challenges? ": 0.10526315789473685,
+            "Name one way to make this object more accessible.": 0.10526315789473685
+        },
+        "avg_similarity_score": 0.06834055309964278
+    },
+    {
+        "instruction": "How can voice commands enhance accessibility?",
+        "input": "",
+        "output": "Voice commands can be used to enhance accessibility by allowing users to access and interact with a product or service without needing to use their hands or other motor skills. This is especially beneficial for people with visual, cognitive, or mobility impairments, as they can use their voice to control a product or service without the need for physical input. Additionally, voice commands can allow for faster and more accurate input, particularly with product functions that require multiple keypresses or navigation steps. Furthermore, voice commands can provide a more natural user interface, allowing users to interact with a product or service in a more natural way, similar to how they would interact with another person.",
+        "most_similar_instructions": {
+            "How can I improve this object's accessibility challenges? ": 0.4,
+            "How can we enhance this object to make it more accessible?": 0.3529411764705882,
+            "How can we make this object more inclusive?": 0.28571428571428575,
+            "Explain why and how accessibility testing is important.": 0.28571428571428575,
+            "What can be the consequences of insufficient accessibility?": 0.28571428571428575,
+            "How this object can be inaccessible in this context?": 0.26666666666666666,
+            "Given this object, how can we make it more accessible?": 0.25,
+            "Describe an example of how we can make this object accessible.": 0.23529411764705885,
+            "How can we modify this object to make it easier for people with disabilities?": 0.2,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.16
+        },
+        "avg_similarity_score": 0.15066073737419955
+    },
+    {
+        "instruction": "Generate a scenario where color contrast is important for accessibility.",
+        "input": "",
+        "output": "A scenario where color contrast is important for accessibility is in the design of a website. A website should be designed with proper contrast between text and its background color; ideally having a contrast ratio of at least 4.5:1. This is especially important for people with low vision, as poor contrast can make the text difficult or impossible to read. Lack of contrast can also make it hard to distinguish between different elements on the page, making navigation more difficult.",
+        "most_similar_instructions": {
+            "Explain why and how accessibility testing is important.": 0.22222222222222224,
+            "Describe the general process of designing for accessibility.": 0.22222222222222224,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.20689655172413793,
+            "Name and explain three different assistive technologies used for accessibility.": 0.20000000000000004,
+            "Generate a classification task that can be completed by a GPT model.": 0.1818181818181818,
+            "Generate a situation in which object1 can help people, but object2 can't.": 0.17391304347826086,
+            "How can voice commands enhance accessibility?": 0.125,
+            "What can be the consequences of insufficient accessibility?": 0.11111111111111112,
+            "What are some basic principles of web accessibility?": 0.11111111111111112,
+            "How can I improve this object's accessibility challenges? ": 0.10526315789473685
+        },
+        "avg_similarity_score": 0.07001509811282558
+    },
+    {
+        "instruction": "Explain why accessiblity should be considered also during the maintenance phase.",
+        "input": "",
+        "output": "Accessibility should be considered during the maintenance phase because if an accessible feature or attribute is removed or broken, the user experience of people with disabilities can be diminished. Therefore, it is important to make sure that all features and attributes that increase accessibility are maintained. Additionally, as technology and software evolve, new accessibility features may need to be introduced to keep up with user needs and to stay in compliance with laws and regulations. Ultimately, by considering accessibility throughout the maintenance phase, the user experience of people with disabilities can be kept in mind and the integrity of the product or service can be preserved.",
+        "most_similar_instructions": {
+            "Explain the fundamentals of user testing.": 0.23529411764705885,
+            "Explain the differences between these two terms.": 0.2222222222222222,
+            "What can be the consequences of insufficient accessibility?": 0.2105263157894737,
+            "Explain why and how accessibility testing is important.": 0.2105263157894737,
+            "In which contexts this object can be inaccessible?": 0.10526315789473685,
+            "Describe the general process of designing for accessibility.": 0.10526315789473685,
+            "In which contexts this space can be inaccessible?": 0.10526315789473685,
+            "In what situations this object can't be used?": 0.09999999999999999,
+            "How this object can be inaccessible in this context?": 0.09999999999999999,
+            "What are the solutions for this object under this context?": 0.09523809523809525
+        },
+        "avg_similarity_score": 0.06466467774714879
+    },
+    {
+        "instruction": "Change the style of this sentence to make it more persuasive.",
+        "input": "This product can help you be more productive.",
+        "output": "Miraculously increase your productivity with this proven and revolutionary product!",
+        "most_similar_instructions": {
+            "How can we enhance this object to make it more accessible?": 0.45454545454545453,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.39999999999999997,
+            "Given this object, how can we make it more accessible?": 0.380952380952381,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.3333333333333333,
+            "How can we modify this object to make it easier for people with disabilities?": 0.32,
+            "Name one way to make this object more accessible.": 0.3,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.23999999999999996,
+            "Explain the fundamentals of user testing.": 0.23529411764705885,
+            "What can be the consequences of insufficient accessibility?": 0.2105263157894737,
+            "Describe the general process of designing for accessibility.": 0.2105263157894737
+        },
+        "avg_similarity_score": 0.16445098932715033
+    },
+    {
+        "instruction": "What are the advantages over traditional methods of this object?",
+        "input": "object: an AI system for medical diagnosis",
+        "output": "AI-powered medical diagnostic systems have several advantages compared to traditional methods. They can comb through vast amounts of data faster, they are more cost-effective and require less human labor than manual diagnosis, and they are more accurate in detecting diseases as they are better at pattern recognition.",
+        "most_similar_instructions": {
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.5,
+            "What are the solutions for this object under this context?": 0.5,
+            "What are some basic principles of web accessibility?": 0.33333333333333326,
+            "What can be the consequences of insufficient accessibility?": 0.33333333333333326,
+            "Describe an example of an augmentation for this object.": 0.3157894736842105,
+            "In what situations this object can't be used?": 0.3157894736842105,
+            "Describe an example of how we can make this object accessible.": 0.28571428571428564,
+            "Change the style of this sentence to make it more persuasive.": 0.28571428571428564,
+            "Explain the fundamentals of user testing.": 0.25,
+            "How can we make this object more inclusive?": 0.22222222222222224
+        },
+        "avg_similarity_score": 0.19435922822812968
+    },
+    {
+        "instruction": "Find the synonym for this word.",
+        "input": "word: incredible",
+        "output": "The synonym for \"incredible\" is \"astonishing\".",
+        "most_similar_instructions": {
+            "What are the solutions for this object under this context?": 0.37499999999999994,
+            "Describe the general process of designing for accessibility.": 0.28571428571428575,
+            "Describe an example of an augmentation for this object.": 0.26666666666666666,
+            "What are the advantages over traditional methods of this object?": 0.25,
+            "Change the style of this sentence to make it more persuasive.": 0.23529411764705885,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.2,
+            "Explain the fundamentals of user testing.": 0.16666666666666666,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.16,
+            "Explain the differences between these two terms.": 0.15384615384615383,
+            "In which contexts this space can be inaccessible?": 0.14285714285714288
+        },
+        "avg_similarity_score": 0.135496216586182
+    },
+    {
+        "instruction": "Identify the sentiment of the sentence.",
+        "input": "The event was a great success.",
+        "output": "The sentiment of this sentence is positive.",
+        "most_similar_instructions": {
+            "Change the style of this sentence to make it more persuasive.": 0.3529411764705882,
+            "Explain the fundamentals of user testing.": 0.3333333333333333,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.3,
+            "What can be the consequences of insufficient accessibility?": 0.28571428571428575,
+            "Describe the general process of designing for accessibility.": 0.28571428571428575,
+            "What are the advantages over traditional methods of this object?": 0.25,
+            "Find the synonym for this word.": 0.16666666666666666,
+            "Explain the differences between these two terms.": 0.15384615384615383,
+            "What are some basic principles of web accessibility?": 0.14285714285714288,
+            "Describe an example of an augmentation for this object.": 0.13333333333333333
+        },
+        "avg_similarity_score": 0.08713429987379566
+    },
+    {
+        "instruction": "Rewrite this sentence in a more concise way.",
+        "input": "I am of the opinion that we should look into this problem in greater detail.",
+        "output": "We should further examine this issue.",
+        "most_similar_instructions": {
+            "Change the style of this sentence to make it more persuasive.": 0.3157894736842105,
+            "How can we make this object more inclusive?": 0.25,
+            "How this object can be inaccessible in this context?": 0.23529411764705882,
+            "Name one way to make this object more accessible.": 0.23529411764705882,
+            "Given this object, how can we make it more accessible?": 0.22222222222222224,
+            "How can we enhance this object to make it more accessible?": 0.2105263157894737,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.14814814814814814,
+            "Identify the sentiment of the sentence.": 0.14285714285714288,
+            "Find the synonym for this word.": 0.14285714285714288,
+            "In which contexts this space can be inaccessible?": 0.125
+        },
+        "avg_similarity_score": 0.10668858718394322
+    },
+    {
+        "instruction": "What is the opposite of this word?",
+        "input": "word: visible",
+        "output": "The opposite of \"visible\" is \"invisible\".",
+        "most_similar_instructions": {
+            "What are the advantages over traditional methods of this object?": 0.47058823529411764,
+            "Find the synonym for this word.": 0.4615384615384615,
+            "What can be the consequences of insufficient accessibility?": 0.39999999999999997,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.38095238095238093,
+            "What are the solutions for this object under this context?": 0.3529411764705882,
+            "Change the style of this sentence to make it more persuasive.": 0.33333333333333326,
+            "Identify the sentiment of the sentence.": 0.30769230769230765,
+            "Explain the fundamentals of user testing.": 0.30769230769230765,
+            "What are some basic principles of web accessibility?": 0.26666666666666666,
+            "Describe the general process of designing for accessibility.": 0.26666666666666666
+        },
+        "avg_similarity_score": 0.18660315130903365
+    },
+    {
+        "instruction": "Explain why this object is important under this context?",
+        "input": "object: wheelchair, context: an elderly nursing home",
+        "output": "In an elderly nursing home, wheelchairs can provide elderly people with the freedom of mobility and independence, reducing their reliance on other people for support. Furthermore, it allows them to have greater access to entertainment and social activities, helping to enhance their quality of life.",
+        "most_similar_instructions": {
+            "What are the solutions for this object under this context?": 0.5263157894736842,
+            "Explain why and how accessibility testing is important.": 0.47058823529411764,
+            "How this object can be inaccessible in this context?": 0.4444444444444444,
+            "What is the opposite of this word?": 0.25,
+            "How can we make this object more inclusive?": 0.23529411764705882,
+            "In which contexts this object can be inaccessible?": 0.23529411764705882,
+            "Describe an example of an augmentation for this object.": 0.2222222222222222,
+            "Suggest how to make this object easier to use.": 0.2222222222222222,
+            "Name one way to make this object more accessible.": 0.2222222222222222,
+            "How can I improve this object's accessibility challenges? ": 0.2222222222222222
+        },
+        "avg_similarity_score": 0.16791887878038522
+    },
+    {
+        "instruction": "How could this product be used to solve this problem?",
+        "input": "product: a mobile application, problem: providing blood donors to emergency victims",
+        "output": "A mobile application can be used to solve the problem of providing blood donors to emergency victims. It can be used to connect the blood donors with the hospitals, creating an efficient and effective way to match and respond to the emergency situation. Furthermore, it will help raise awareness of the importance of donating blood.",
+        "most_similar_instructions": {
+            "How this object can be inaccessible in this context?": 0.4210526315789474,
+            "Suggest how to make this object easier to use.": 0.3157894736842105,
+            "In what situations this object can't be used?": 0.3157894736842105,
+            "Name one practicable augmentation that can be added to this object.": 0.28571428571428564,
+            "How can we enhance this object to make it more accessible?": 0.28571428571428564,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.27586206896551724,
+            "How can we modify this object to make it easier for people with disabilities?": 0.25,
+            "In which contexts this space can be inaccessible?": 0.22222222222222224,
+            "In which contexts this object can be inaccessible?": 0.22222222222222224,
+            "How can we make this object more inclusive?": 0.22222222222222224
+        },
+        "avg_similarity_score": 0.1498147517524052
+    },
+    {
+        "instruction": "What are the risks associated with this product?",
+        "input": "product: self-driving cars",
+        "output": "Some of the risks associated with self-driving cars include faulty sensors or software, errors in recognizing the environment, and potential cyber security threats. Additionally, there is the potential for human injury or death due to inaction or misaction of the car, as well as ethical quandaries associated with self-driving cars, such as how they make decisions in situations that put human life at risk.",
+        "most_similar_instructions": {
+            "What are the advantages over traditional methods of this object?": 0.4444444444444445,
+            "What are the solutions for this object under this context?": 0.4444444444444445,
+            "What is the opposite of this word?": 0.39999999999999997,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.36363636363636365,
+            "Find the synonym for this word.": 0.28571428571428575,
+            "What can be the consequences of insufficient accessibility?": 0.25,
+            "What are some basic principles of web accessibility?": 0.25,
+            "In what situations this object can't be used?": 0.23529411764705882,
+            "How could this product be used to solve this problem?": 0.22222222222222224,
+            "Change the style of this sentence to make it more persuasive.": 0.2105263157894737
+        },
+        "avg_similarity_score": 0.14809323609826705
+    },
+    {
+        "instruction": "What are the benefits of this product?",
+        "input": "product: a virtual assistant",
+        "output": "The benefits of having a virtual assistant include increased efficiency, improved customer service, reduced labor costs, and enhanced customer experience. A virtual assistant can help automate routine tasks, answer customer queries, interact with customers in real-time, and suggest new products or services.",
+        "most_similar_instructions": {
+            "What are the risks associated with this product?": 0.6666666666666666,
+            "What are the advantages over traditional methods of this object?": 0.588235294117647,
+            "What is the opposite of this word?": 0.5714285714285714,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.4761904761904762,
+            "What are the solutions for this object under this context?": 0.47058823529411764,
+            "What are some basic principles of web accessibility?": 0.39999999999999997,
+            "What can be the consequences of insufficient accessibility?": 0.39999999999999997,
+            "Change the style of this sentence to make it more persuasive.": 0.33333333333333326,
+            "Find the synonym for this word.": 0.30769230769230765,
+            "Identify the sentiment of the sentence.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.20882304766809784
+    },
+    {
+        "instruction": "Summarize this article in one sentence.",
+        "input": "Article: An article about the rising sea levels",
+        "output": "Sea levels are rising due to the ongoing global warming crisis, resulting in a number of climate-related problems.",
+        "most_similar_instructions": {
+            "Rewrite this sentence in a more concise way.": 0.28571428571428575,
+            "How this object can be inaccessible in this context?": 0.26666666666666666,
+            "Change the style of this sentence to make it more persuasive.": 0.23529411764705885,
+            "Identify the sentiment of the sentence.": 0.16666666666666666,
+            "Find the synonym for this word.": 0.16666666666666666,
+            "What are the benefits of this product?": 0.15384615384615383,
+            "What is the opposite of this word?": 0.15384615384615383,
+            "How can we make this object more inclusive?": 0.14285714285714288,
+            "In which contexts this object can be inaccessible?": 0.14285714285714288,
+            "In which contexts this space can be inaccessible?": 0.14285714285714288
+        },
+        "avg_similarity_score": 0.10400794325827499
+    },
+    {
+        "instruction": "Construct an appropriate response to this inquiry.",
+        "input": "inquiry: Can you recommend a good restaurant near me?",
+        "output": "Sure, I can recommend a few great restaurants near you. What kind of cuisine are you interested in?",
+        "most_similar_instructions": {
+            "Name one way to make this object more accessible.": 0.25,
+            "Suggest how to make this object easier to use.": 0.25,
+            "Describe an example of an augmentation for this object.": 0.25,
+            "Create an example of input that can complete this instruction.": 0.23529411764705882,
+            "How could this product be used to solve this problem?": 0.23529411764705882,
+            "Describe an example of how we can make this object accessible.": 0.2222222222222222,
+            "Name one practicable augmentation that can be added to this object.": 0.2222222222222222,
+            "Find the synonym for this word.": 0.15384615384615383,
+            "Summarize this article in one sentence.": 0.15384615384615383,
+            "What is the opposite of this word?": 0.14285714285714285
+        },
+        "avg_similarity_score": 0.10377299399187226
+    },
+    {
+        "instruction": "Rewrite this sentence in the passive voice.",
+        "input": "We cleaned up the mess.",
+        "output": "The mess was cleaned up by us.",
+        "most_similar_instructions": {
+            "Rewrite this sentence in a more concise way.": 0.5333333333333333,
+            "Summarize this article in one sentence.": 0.30769230769230765,
+            "How this object can be inaccessible in this context?": 0.25,
+            "Change the style of this sentence to make it more persuasive.": 0.2222222222222222,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.19047619047619047,
+            "Explain the fundamentals of user testing.": 0.15384615384615383,
+            "How can voice commands enhance accessibility?": 0.15384615384615383,
+            "Identify the sentiment of the sentence.": 0.15384615384615383,
+            "Find the synonym for this word.": 0.15384615384615383,
+            "Explain the differences between these two terms.": 0.14285714285714285
+        },
+        "avg_similarity_score": 0.13045337015925254
+    },
+    {
+        "instruction": "How could this object be used to achieve this outcome?",
+        "input": "object: robots, outcome: reduced human labor",
+        "output": "Robots can be used to reduce the amount of human labor required for certain tasks. For example, they can be programmed to perform repetitive tasks with a higher level of speed and accuracy than humans, thus eliminating the need for human labor in such areas.",
+        "most_similar_instructions": {
+            "How could this product be used to solve this problem?": 0.7,
+            "How this object can be inaccessible in this context?": 0.5263157894736842,
+            "In what situations this object can't be used?": 0.4210526315789474,
+            "Suggest how to make this object easier to use.": 0.4210526315789474,
+            "How can we enhance this object to make it more accessible?": 0.380952380952381,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.3448275862068966,
+            "How can we modify this object to make it easier for people with disabilities?": 0.3333333333333333,
+            "How can we make this object more inclusive?": 0.33333333333333326,
+            "In which contexts this object can be inaccessible?": 0.33333333333333326,
+            "Explain why this object is important under this context?": 0.3157894736842105
+        },
+        "avg_similarity_score": 0.19774110502145087
+    },
+    {
+        "instruction": "Why are slippery floors potentially hazardous in an indoor space?",
+        "input": "",
+        "output": "Slippery floors in indoor spaces, especially after shower, can present a tripping hazard. When the floor is wet, it loses its friction and becomes slippery. This can lead to falls which have the potential to cause physical injuries. These injuries range from scratches to serious head or spine problems. That's why it's important to ensure proper slip resistance in an indoor space.",
+        "most_similar_instructions": {
+            "Which everyday objects can be inaccessible in this indoor space?": 0.3,
+            "In which contexts this space can be inaccessible?": 0.22222222222222224,
+            "Summarize this article in one sentence.": 0.125,
+            "Construct an appropriate response to this inquiry.": 0.11764705882352941,
+            "What are the benefits of this product?": 0.11764705882352941,
+            "Rewrite this sentence in the passive voice.": 0.11764705882352941,
+            "What are the risks associated with this product?": 0.11111111111111112,
+            "Rewrite this sentence in a more concise way.": 0.11111111111111112,
+            "In which contexts this object can be inaccessible?": 0.11111111111111112,
+            "What are some basic principles of web accessibility?": 0.11111111111111112
+        },
+        "avg_similarity_score": 0.058837024969942336
+    },
+    {
+        "instruction": "Create a description for an innovative device.",
+        "input": "",
+        "output": "Introducing the world's first smart bottle opener, the SmarTopper! Fully integrated with bluetooth technology, the SmarTopper allows you to open bottles with just a touch of your finger. Its sleek round design fits snuggly in your pocket, yet it's strong enough to open even the most stubborn beer caps. SmarTopper comes with an accompanying app that notifies you when your beer is running low, and even sends you reminders when it's time to order more! Plus, its easy-to-clean design makes cleaning it a breeze. With the SmarTopper, you'll never have to worry about missing out on the next cold brew!",
+        "most_similar_instructions": {
+            "Create an example of input that can complete this instruction.": 0.23529411764705882,
+            "Generate a scenario where color contrast is important for accessibility.": 0.23529411764705882,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.15384615384615385,
+            "Find the synonym for this word.": 0.15384615384615383,
+            "Construct an appropriate response to this inquiry.": 0.14285714285714285,
+            "Describe the general process of designing for accessibility.": 0.13333333333333333,
+            "Rewrite this sentence in a more concise way.": 0.13333333333333333,
+            "Describe an example of an augmentation for this object.": 0.125,
+            "Why are slippery floors potentially hazardous in an indoor space?": 0.11764705882352941,
+            "Name and explain three different assistive technologies used for accessibility.": 0.11764705882352941
+        },
+        "avg_similarity_score": 0.04583576532229454
+    },
+    {
+        "instruction": "Name 5 ways to impress a date.",
+        "input": "",
+        "output": "1. Dress nicely for the occasion. 2. Compliment them and show genuine interest in what they have to say. 3. Take them on an exciting and memorable date. 4. Invite them to do something out of the ordinary. 5. Show them that you care about their interests and listen to what they have to say. Being genuinely yourself is key to making a lasting impression.",
+        "most_similar_instructions": {
+            "Name one way to make this object more accessible.": 0.25,
+            "Name one practicable augmentation that can be added to this object.": 0.2222222222222222,
+            "Construct an appropriate response to this inquiry.": 0.14285714285714285,
+            "Create a description for an innovative device.": 0.14285714285714285,
+            "Rewrite this sentence in a more concise way.": 0.13333333333333333,
+            "Suggest how to make this object easier to use.": 0.125,
+            "Name and explain three different assistive technologies used for accessibility.": 0.11764705882352941,
+            "How could this object be used to achieve this outcome?": 0.11764705882352941,
+            "How could this product be used to solve this problem?": 0.11764705882352941,
+            "Generate a scenario where color contrast is important for accessibility.": 0.11764705882352941
+        },
+        "avg_similarity_score": 0.045071410536774305
+    },
+    {
+        "instruction": "What is a creative gift idea for someone who loves cooking?",
+        "input": "",
+        "output": "A creative gift for someone who loves to cook is a unique cookbook with delicious recipes. Find a cookbook that caters to their specific tastes, such as vegan, international cuisine, or gluten-free. A cookbook with the latest cooking trends or butchering techniques can also be a great gift idea. Or find a personalized item, such as a cutting board with their name engraved on it. These items will surely spark their creativity in the kitchen and bring them joy.",
+        "most_similar_instructions": {
+            "Create a description for an innovative device.": 0.2222222222222222,
+            "What is the opposite of this word?": 0.2222222222222222,
+            "What are the solutions for this object under this context?": 0.1904761904761905,
+            "Generate a scenario where color contrast is important for accessibility.": 0.1904761904761905,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.13333333333333333,
+            "Find the synonym for this word.": 0.11764705882352942,
+            "Name 5 ways to impress a date.": 0.1111111111111111,
+            "What are the benefits of this product?": 0.1111111111111111,
+            "Rewrite this sentence in a more concise way.": 0.10526315789473685,
+            "What can be the consequences of insufficient accessibility?": 0.10526315789473685
+        },
+        "avg_similarity_score": 0.057502267333870455
+    },
+    {
+        "instruction": "Why are reusable bags essential?",
+        "input": "",
+        "output": "Reusable bags are essential because they reduce the amount of plastic and paper waste being generated. When you bring your own reusable bag to the grocery store, it eliminates the need for one-time-use plastic or paper bags. This reduces the environmental impact of packaging waste that ends up in landfills or polluting the oceans. Additionally, reusable bags help reduce costs for the store and for consumers.",
+        "most_similar_instructions": {
+            "Why are slippery floors potentially hazardous in an indoor space?": 0.26666666666666666,
+            "What are the benefits of this product?": 0.16666666666666666,
+            "What are the risks associated with this product?": 0.15384615384615385,
+            "Explain why and how accessibility testing is important.": 0.15384615384615385,
+            "What are some basic principles of web accessibility?": 0.15384615384615385,
+            "Explain why this object is important under this context?": 0.14285714285714285,
+            "What are the advantages over traditional methods of this object?": 0.13333333333333333,
+            "What are the solutions for this object under this context?": 0.13333333333333333,
+            "Explain why accessiblity should be considered also during the maintenance phase.": 0.12500000000000003,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.10526315789473682
+        },
+        "avg_similarity_score": 0.03235984191247349
+    },
+    {
+        "instruction": "Name 5 ways to save money on groceries.",
+        "input": "",
+        "output": "1. Create a grocery list and stick to it. 2. Shop at discount stores. 3. Buy in bulk and store items properly. 4. Check for coupons and discounts. 5. Grow your own produce. 6. Buy store brands or generic brands. 7. Use cash or debit cards instead of credit cards. 8. Check out online delivery services. 9. Avoid buying pre-packaged and pre-prepared meals.",
+        "most_similar_instructions": {
+            "Name 5 ways to impress a date.": 0.5333333333333333,
+            "Name one way to make this object more accessible.": 0.23529411764705882,
+            "Name one practicable augmentation that can be added to this object.": 0.2105263157894737,
+            "Construct an appropriate response to this inquiry.": 0.13333333333333333,
+            "Suggest how to make this object easier to use.": 0.11764705882352941,
+            "Name and explain three different assistive technologies used for accessibility.": 0.11111111111111112,
+            "How could this product be used to solve this problem?": 0.11111111111111112,
+            "How could this object be used to achieve this outcome?": 0.11111111111111112,
+            "How can we enhance this object to make it more accessible?": 0.10526315789473685,
+            "Change the style of this sentence to make it more persuasive.": 0.10526315789473685
+        },
+        "avg_similarity_score": 0.03947158915895637
+    },
+    {
+        "instruction": "How to clean a white couch?",
+        "input": "",
+        "output": "Cleaning a white couch depends on the type of fabric used for its cover. For fabric, start by vacuuming the couch to remove any dirt or debris using upholstery attachment. To remove stains and ground-in dirt, mix equal parts of baking soda, white vinegar, and warm water and work it into a paste. Apply the paste to the stained area in a circular motion and let it sit for 10 minutes. For leather, use a leather cleaner or a mild soapy solution, apply it using a soft cloth, and wipe off any residue with a damp cloth.",
+        "most_similar_instructions": {
+            "Name 5 ways to impress a date.": 0.30769230769230765,
+            "Suggest how to make this object easier to use.": 0.26666666666666666,
+            "How could this product be used to solve this problem?": 0.25,
+            "How could this object be used to achieve this outcome?": 0.25,
+            "How can we enhance this object to make it more accessible?": 0.23529411764705885,
+            "How can we modify this object to make it easier for people with disabilities?": 0.2,
+            "How can voice commands enhance accessibility?": 0.16666666666666666,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.16,
+            "Create a description for an innovative device.": 0.15384615384615383,
+            "Construct an appropriate response to this inquiry.": 0.15384615384615383
+        },
+        "avg_similarity_score": 0.07946929119410663
+    },
+    {
+        "instruction": "Find a product to reduce energy use.",
+        "input": "",
+        "output": "Using LED lights is one way to reduce energy use. LED lights use 75-80% less energy than traditional lighting and last 25 times longer. Other energy-efficient products include energy-efficient refrigerators, washing machines, and smart thermostats. Smart thermostats allow you to remotely control the temperature settings in your home, so you can save energy while away.",
+        "most_similar_instructions": {
+            "Suggest how to make this object easier to use.": 0.25,
+            "How could this product be used to solve this problem?": 0.23529411764705882,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.15384615384615385,
+            "Find the synonym for this word.": 0.15384615384615383,
+            "How to clean a white couch?": 0.15384615384615383,
+            "Create a description for an innovative device.": 0.14285714285714285,
+            "Construct an appropriate response to this inquiry.": 0.14285714285714285,
+            "What are the benefits of this product?": 0.14285714285714285,
+            "Name 5 ways to impress a date.": 0.14285714285714285,
+            "What are the risks associated with this product?": 0.13333333333333333
+        },
+        "avg_similarity_score": 0.058498566844556676
+    },
+    {
+        "instruction": "What is a way to make home activities more entertaining for children?",
+        "input": "",
+        "output": "One way to make home activities more entertaining for children is by incorporating educational games in their activities. For example, you can turn regular household chores into a scavenger hunt in which the child needs to find items around the house and clean up as they go. Additionally, creating a routine with rewards is a great way to make the activities more fun and engaging. With a daily routine, children can anticipate their rewards as they complete their tasks, making chores less of a drag and more exciting.",
+        "most_similar_instructions": {
+            "Name one way to make this object more accessible.": 0.380952380952381,
+            "What is a creative gift idea for someone who loves cooking?": 0.34782608695652173,
+            "Change the style of this sentence to make it more persuasive.": 0.2608695652173913,
+            "How can we enhance this object to make it more accessible?": 0.2608695652173913,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.2580645161290323,
+            "How can we modify this object to make it easier for people with disabilities?": 0.23076923076923075,
+            "Find a product to reduce energy use.": 0.2105263157894737,
+            "Create a description for an innovative device.": 0.2105263157894737,
+            "What is the opposite of this word?": 0.2105263157894737,
+            "How can we make this object more inclusive?": 0.2
+        },
+        "avg_similarity_score": 0.10929520767832653
+    },
+    {
+        "instruction": "Describe a typical morning routine",
+        "input": "",
+        "output": "My typical morning routine consists of waking up around 6-7 am, depending on the season. I make my bed, then brush my teeth and take a shower. I eat breakfast and check my phone and emails. I dress myself and do my daily exercise, such as running or yoga. I usually finish up by packing my lunch and getting ready for work before heading out.",
+        "most_similar_instructions": {
+            "How to clean a white couch?": 0.1818181818181818,
+            "Find a product to reduce energy use.": 0.16666666666666666,
+            "Name 5 ways to impress a date.": 0.16666666666666666,
+            "Create a description for an innovative device.": 0.16666666666666666,
+            "Describe the general process of designing for accessibility.": 0.15384615384615385,
+            "Rewrite this sentence in a more concise way.": 0.15384615384615385,
+            "Describe an example of an augmentation for this object.": 0.14285714285714285,
+            "Generate a scenario where color contrast is important for accessibility.": 0.13333333333333333,
+            "What is a creative gift idea for someone who loves cooking?": 0.12500000000000003,
+            "Describe an example of how we can make this object accessible.": 0.12500000000000003
+        },
+        "avg_similarity_score": 0.0353716277780449
+    },
+    {
+        "instruction": "What are the effects of noise pollution?",
+        "input": "",
+        "output": "Noise pollution can have both physical and psychological effects on humans. Physically, it can damage hearing, increase stress and anxiety levels, cause insomnia, and lead to hypertension. Psychologically, noise pollution can fragment and disrupt communication, cause distraction and irritability, create feelings of anger, and even lead to aggressive behavior. In addition, animals are also affected by noise pollution, as their communication and sense of safety may be disrupted.",
+        "most_similar_instructions": {
+            "What are the benefits of this product?": 0.5714285714285714,
+            "What are the advantages over traditional methods of this object?": 0.47058823529411764,
+            "What is the opposite of this word?": 0.42857142857142855,
+            "What can be the consequences of insufficient accessibility?": 0.39999999999999997,
+            "What are the risks associated with this product?": 0.39999999999999997,
+            "What are some basic principles of web accessibility?": 0.39999999999999997,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.38095238095238093,
+            "What are the solutions for this object under this context?": 0.3529411764705882,
+            "Identify the sentiment of the sentence.": 0.30769230769230765,
+            "Explain the fundamentals of user testing.": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.11058427082033893
+    },
+    {
+        "instruction": "Explain the concept of food wastage.",
+        "input": "",
+        "output": "Food wastage is the act of discarding or not using food that has gone to waste due to being uneaten or unconsumed. This can be caused by unplanned excess cooking, spoiled food, unattractive food, or even due to improper storage. Food wastage is a major issue around the world, as according to the United Nations roughly one-third of produced food is lost or wasted. This has significant effects on the environment, since it increases the amount of greenhouse gases produced. Other effects include wasted resources used to produce food, wasted energy, and a decreased amount of food for those in need.",
+        "most_similar_instructions": {
+            "Explain the fundamentals of user testing.": 0.5,
+            "Identify the sentiment of the sentence.": 0.3333333333333333,
+            "What are the effects of noise pollution?": 0.30769230769230765,
+            "What is the opposite of this word?": 0.30769230769230765,
+            "Explain the differences between these two terms.": 0.30769230769230765,
+            "What are the benefits of this product?": 0.30769230769230765,
+            "What can be the consequences of insufficient accessibility?": 0.28571428571428575,
+            "Describe the general process of designing for accessibility.": 0.28571428571428575,
+            "What are the advantages over traditional methods of this object?": 0.25,
+            "Explain why accessiblity should be considered also during the maintenance phase.": 0.23529411764705885
+        },
+        "avg_similarity_score": 0.09165819904209997
+    },
+    {
+        "instruction": "Come up with a way to reuse paper",
+        "input": "",
+        "output": "One creative way to reuse paper is to turn it into decorative cards, gift tags, or envelopes. To do this, simply cut the paper into your desired shape or use a craft punch to create various shapes. After cutting the paper, adorn your cards with stamps, colored markers, ribbons, and even photos. You can also use a hole puncher and some twine to turn them into beautiful gift tags. If you have leftover envelopes, you can use them to store small items, such as jewelry or buttons.",
+        "most_similar_instructions": {
+            "What is a way to make home activities more entertaining for children?": 0.3,
+            "Find a product to reduce energy use.": 0.26666666666666666,
+            "Rewrite this sentence in a more concise way.": 0.25,
+            "Name one way to make this object more accessible.": 0.23529411764705882,
+            "Describe a typical morning routine": 0.15384615384615385,
+            "Instead of getting a total replacement which is costly, are there augmentations for this object to make it accessible? ": 0.14814814814814814,
+            "How to clean a white couch?": 0.14285714285714288,
+            "Name 5 ways to impress a date.": 0.13333333333333333,
+            "Construct an appropriate response to this inquiry.": 0.13333333333333333,
+            "Create a description for an innovative device.": 0.13333333333333333
+        },
+        "avg_similarity_score": 0.05825976746762484
+    },
+    {
+        "instruction": "What is the best way to cook fish?",
+        "input": "",
+        "output": "The best way to cook fish is to bake it in the oven. Preheat the oven to 375F, then place the fish on a baking sheet. Drizzle with olive oil and sprinkle with salt and pepper. Bake uncovered for about 15 minutes, until the fish flakes easily with a fork. You can also cook fish on the stovetop by searing it or pan-frying. When cooking on the stovetop, make sure to add enough oil to the pan and heat on high heat. Cook the fish for about 5 minutes for each side, depending on the thickness.",
+        "most_similar_instructions": {
+            "What is a way to make home activities more entertaining for children?": 0.4,
+            "What is the opposite of this word?": 0.39999999999999997,
+            "What are the benefits of this product?": 0.26666666666666666,
+            "What are the effects of noise pollution?": 0.26666666666666666,
+            "Come up with a way to reuse paper": 0.25,
+            "What are the risks associated with this product?": 0.25,
+            "What can be the consequences of insufficient accessibility?": 0.25,
+            "Name one way to make this object more accessible.": 0.23529411764705882,
+            "What are the advantages over traditional methods of this object?": 0.22222222222222224,
+            "What are the solutions for this object under this context?": 0.22222222222222224
+        },
+        "avg_similarity_score": 0.1133405150236236
+    },
+    {
+        "instruction": "What are some sustainable storage solutions?",
+        "input": "",
+        "output": "Some sustainable storage solutions include using second-hand containers, boxes, bins, and baskets. Reusing these previously owned items reduces waste and can save you money since you won\u2019t need to buy new. Recycled paper boxes are also great for storing items inside your home. Lastly, using airtight glass containers or mason jars are great for storing food items in the kitchen. These containers can be reused for many years and are easy to clean and maintain.",
+        "most_similar_instructions": {
+            "What are some basic principles of web accessibility?": 0.42857142857142855,
+            "What are the solutions for this object under this context?": 0.37499999999999994,
+            "What are the effects of noise pollution?": 0.30769230769230765,
+            "What are the benefits of this product?": 0.30769230769230765,
+            "What are the risks associated with this product?": 0.28571428571428575,
+            "What are the advantages over traditional methods of this object?": 0.25,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.2,
+            "Why are reusable bags essential?": 0.1818181818181818,
+            "What is the opposite of this word?": 0.15384615384615383,
+            "What can be the consequences of insufficient accessibility?": 0.14285714285714288
+        },
+        "avg_similarity_score": 0.055719007571948746
+    },
+    {
+        "instruction": "Explain when it's best to use a credit card",
+        "input": "",
+        "output": "It's best to use a credit card when you can pay off your balance in full each month. This allows you to take advantage of the rewards and bonuses associated with credit cards, such as cash back or points for travel. Additionally, if a big expense arises, such as a medical emergency, using a credit card can give you the peace of mind of being prepared and can help you avoid going into debt. Credit cards should not be used as a means for long-term financing since you will pay slightly more in interest due to the grace period.",
+        "most_similar_instructions": {
+            "How to clean a white couch?": 0.25,
+            "Find a product to reduce energy use.": 0.23529411764705882,
+            "Name 5 ways to impress a date.": 0.23529411764705882,
+            "What is the best way to cook fish?": 0.22222222222222224,
+            "Suggest how to make this object easier to use.": 0.2105263157894737,
+            "Describe a typical morning routine": 0.13333333333333333,
+            "Explain the concept of food wastage.": 0.125,
+            "Explain the fundamentals of user testing.": 0.125,
+            "Construct an appropriate response to this inquiry.": 0.11764705882352941,
+            "Explain the differences between these two terms.": 0.11764705882352941
+        },
+        "avg_similarity_score": 0.06747663522626672
+    },
+    {
+        "instruction": "How does this object's accessibility challenges differ if placed in different contexts?",
+        "input": "object: door knob",
+        "output": "The accessibility challenges of door knobs in various places can be different when considering the impacts of motor challenges and visual challenges. For example, door knobs in public spaces can have more motor challenges due to the frequent usage. However, door knobs in homes might face more visual challenges. For example, door knobs in darker corners can be difficult to locate. Also, door knobs that are placed quite low can make it difficult to reach for many people.",
+        "most_similar_instructions": {
+            "How can I improve this object's accessibility challenges? ": 0.5454545454545455,
+            "How this object can be inaccessible in this context?": 0.3636363636363637,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.29629629629629634,
+            "How can we make this object more inclusive?": 0.2857142857142857,
+            "Suggest how to make this object easier to use.": 0.27272727272727276,
+            "How could this object be used to achieve this outcome?": 0.2608695652173913,
+            "How can we enhance this object to make it more accessible?": 0.24999999999999994,
+            "Describe an example of how we can make this object accessible.": 0.24999999999999994,
+            "How can we modify this object to make it easier for people with disabilities?": 0.22222222222222224,
+            "Summarize this article in one sentence.": 0.21052631578947367
+        },
+        "avg_similarity_score": 0.12266844758125117
+    },
+    {
+        "instruction": "What can be done to reduce the accessibility challenges of this object?",
+        "input": "object: door knob",
+        "output": "There are several ways to reduce the accessibility challenges of door knobs. 1. Making sure the door knobs are placed at appropriate height to reduce motor challenges. 2. Adding alternative operations for the door knobs such as levers and handles to provide more options. 3. Painting the door knobs in brighter colors to make them more noticeable in low-light space. 4. Attaching a knob extender to round door knobs to make them easier to grasp. 5. Installing smart door locks that can be controlled remotely to aid elderly and disable people.",
+        "most_similar_instructions": {
+            "What can be the consequences of insufficient accessibility?": 0.5,
+            "What are the advantages over traditional methods of this object?": 0.45454545454545453,
+            "Name one practicable augmentation that can be added to this object.": 0.43478260869565216,
+            "What are the benefits of this product?": 0.4210526315789474,
+            "What is the opposite of this word?": 0.4210526315789474,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.3846153846153846,
+            "What are the solutions for this object under this context?": 0.3636363636363636,
+            "What are the effects of noise pollution?": 0.3157894736842105,
+            "How can we make this object more inclusive?": 0.3,
+            "What are the risks associated with this product?": 0.3
+        },
+        "avg_similarity_score": 0.2074721596272317
+    },
+    {
+        "instruction": "Make a list of 5 examples of objects with similar accessibility challenges.",
+        "input": "object: door knob",
+        "output": "1. Stove knobs - With round shape and the need for grasping and rotation, they present similar motor challenges as door knobs.\n2. Faucets - Faucets with metal handles can present similar accessibility challenges as metal lever type door knobs.\n3. Push Locks - push locks which require a pushing force from the top, present similar accessibility challenges as door knobs placed quite low.\n4. Light Switches - Light switches which often require a finger to slide the switch, present similar motor challenges as round door knobs.\n5. Electric Plug Sockets - Due to the need to take out and put in, electric plug sockets present similar motor challenges as door knobs.",
+        "most_similar_instructions": {
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.23076923076923075,
+            "What can be the consequences of insufficient accessibility?": 0.2,
+            "What are some basic principles of web accessibility?": 0.2,
+            "Describe the general process of designing for accessibility.": 0.2,
+            "How can I improve this object's accessibility challenges? ": 0.1904761904761905,
+            "Generate a scenario where color contrast is important for accessibility.": 0.1818181818181818,
+            "What can be done to reduce the accessibility challenges of this object?": 0.16666666666666666,
+            "How does this object's accessibility challenges differ if placed in different contexts?": 0.16,
+            "How can we modify this object to make it easier for people with disabilities?": 0.15384615384615383,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.12903225806451615
+        },
+        "avg_similarity_score": 0.0813682493314488
+    },
+    {
+        "instruction": "What is the best way to make an object's accessibility challenges more visible?",
+        "input": "",
+        "output": "The best way to make an object's accessibility challenges more visible is to educate people about it. Make sure people are not only aware of the accessibility challenges but also why it is important to address those challenges. Furthermore, providing resources and listing those challenges on websites, leaflets, posters, or conferences could increase the awareness of those accessibility challenges. Additionally, using symbolism or visual aids could make an object's accessibility challenges more visible and easier to understand.",
+        "most_similar_instructions": {
+            "What is the best way to cook fish?": 0.5454545454545454,
+            "What is a way to make home activities more entertaining for children?": 0.4615384615384615,
+            "Name one way to make this object more accessible.": 0.43478260869565216,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.35714285714285715,
+            "How can I improve this object's accessibility challenges? ": 0.34782608695652173,
+            "Change the style of this sentence to make it more persuasive.": 0.32,
+            "What can be done to reduce the accessibility challenges of this object?": 0.30769230769230765,
+            "How does this object's accessibility challenges differ if placed in different contexts?": 0.29629629629629634,
+            "What is the opposite of this word?": 0.2857142857142857,
+            "How can we make this object more inclusive?": 0.2727272727272727
+        },
+        "avg_similarity_score": 0.15971892519718606
+    },
+    {
+        "instruction": "What is the best way to install an accessibility-friendly door knob?",
+        "input": "",
+        "output": "The best way to install an accessibility-friendly door knob is to make sure that it is placed at the correct height and that any alternative operations, such as levers or handles, are properly installed. Additionally, you should ensure that the materials used for the door knob are not slippery, to avoid any safety concerns. Finally, you should consider the installation of an intelligent door control system, which allows for remote access and control.",
+        "most_similar_instructions": {
+            "What is the best way to make an object's accessibility challenges more visible?": 0.6153846153846153,
+            "What is the best way to cook fish?": 0.6,
+            "What is a way to make home activities more entertaining for children?": 0.3333333333333333,
+            "What is the opposite of this word?": 0.3157894736842105,
+            "What can be the consequences of insufficient accessibility?": 0.3,
+            "What can be done to reduce the accessibility challenges of this object?": 0.25,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.23076923076923075,
+            "What are the benefits of this product?": 0.2105263157894737,
+            "What are the effects of noise pollution?": 0.2105263157894737,
+            "Come up with a way to reuse paper": 0.2
+        },
+        "avg_similarity_score": 0.1296004216613275
+    },
+    {
+        "instruction": "What are the common accessibility challenges associated with this object?",
+        "input": "object: door knob",
+        "output": "Common accessibility challenges associated with door knobs are motor and reach challenges. Round door knobs require hard gripping and rotation, which pose challenges to those with less gripping power and motor freedom on their hands and arms. Metal lever door knobs can be slippery and not long enough to aid alternative operation with arms. Door knobs placed quite low can make it difficult to reach for many people, especially those in a wheelchair. Door knobs in darker corners can also be difficult to locate.",
+        "most_similar_instructions": {
+            "What are the risks associated with this product?": 0.6666666666666665,
+            "What can be done to reduce the accessibility challenges of this object?": 0.5454545454545454,
+            "What are the advantages over traditional methods of this object?": 0.5,
+            "What are the solutions for this object under this context?": 0.5,
+            "What are the benefits of this product?": 0.47058823529411764,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.41666666666666663,
+            "What is the opposite of this word?": 0.3529411764705882,
+            "What are the effects of noise pollution?": 0.3529411764705882,
+            "What is the best way to make an object's accessibility challenges more visible?": 0.3333333333333333,
+            "What can be the consequences of insufficient accessibility?": 0.33333333333333326
+        },
+        "avg_similarity_score": 0.18674711153386273
+    },
+    {
+        "instruction": "If this object is installed in a dark corner, how can it be made more visible?",
+        "input": "object: door knob",
+        "output": "If the door knob is installed in a dark corner, it can be made more visible by adding glow-in-the-dark stickers on the door knob or painting the door knob in brighter colors. Additionally, reflective tape or projection lighting can be used to increase visibility in low-light conditions. You may also consider installing an intelligent door control system that can be controlled remotely, to aid people in locating the door knob.",
+        "most_similar_instructions": {
+            "Given this object, how can we make it more accessible?": 0.4615384615384615,
+            "Rewrite this sentence in a more concise way.": 0.3333333333333333,
+            "In which contexts this object can be inaccessible?": 0.3333333333333333,
+            "In what situations this object can't be used?": 0.32,
+            "How this object can be inaccessible in this context?": 0.32,
+            "How can we enhance this object to make it more accessible?": 0.2962962962962963,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.2857142857142857,
+            "In which contexts this space can be inaccessible?": 0.25,
+            "How can we make this object more inclusive?": 0.25,
+            "Explain why this object is important under this context?": 0.24000000000000005
+        },
+        "avg_similarity_score": 0.13910101144866113
+    },
+    {
+        "instruction": "Is it possible to interact with this object without using your hands?",
+        "input": "object: door knob",
+        "output": "Yes, it is possible to interact with a door knob without using your hands. Depending on the type of door knob, you can use alternative operations such as levers or handles. Additionally, some door knobs may be able to be opened with a bump of a fist or a kick. Finally, you can install an intelligent door control system to allow for remote access and control.",
+        "most_similar_instructions": {
+            "Name one way to make this object more accessible.": 0.28571428571428575,
+            "Suggest how to make this object easier to use.": 0.28571428571428575,
+            "What are the common accessibility challenges associated with this object?": 0.2727272727272727,
+            "Name one practicable augmentation that can be added to this object.": 0.2608695652173913,
+            "What can be done to reduce the accessibility challenges of this object?": 0.25,
+            "What is the best way to make an object's accessibility challenges more visible?": 0.23076923076923075,
+            "What is the opposite of this word?": 0.2105263157894737,
+            "Construct an appropriate response to this inquiry.": 0.2105263157894737,
+            "How can we make this object more inclusive?": 0.2,
+            "What are the risks associated with this product?": 0.2
+        },
+        "avg_similarity_score": 0.1195476296443942
+    },
+    {
+        "instruction": "What type of object can be used to improve the accessibility of this object?",
+        "input": "object: door knob",
+        "output": "Different types of objects can be used to improve the accessibility of door knobs. For example, door knob extenders, wooden sticks taped onto the door knob, and attachable door knob levers can be used to assist in grasping and rotation for round door knobs. Lever door knobs can be made more ergonomic with appropriate handles or arm-actuable attachments. Additionally, smart door locks can be used to limit access, providing safety to individuals.",
+        "most_similar_instructions": {
+            "What can be done to reduce the accessibility challenges of this object?": 0.6923076923076924,
+            "What can be the consequences of insufficient accessibility?": 0.45454545454545453,
+            "In what situations this object can't be used?": 0.43478260869565216,
+            "How could this object be used to achieve this outcome?": 0.41666666666666663,
+            "What are the common accessibility challenges associated with this object?": 0.41666666666666663,
+            "What are the advantages over traditional methods of this object?": 0.41666666666666663,
+            "Name one practicable augmentation that can be added to this object.": 0.4,
+            "What is the opposite of this word?": 0.38095238095238093,
+            "What are the benefits of this product?": 0.38095238095238093,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.35714285714285715
+        },
+        "avg_similarity_score": 0.2160769410024068
+    },
+    {
+        "instruction": "What types of design changes could be made to this object to improve accessibility?",
+        "input": "object: door knob",
+        "output": "Different types of design changes could be made to improve the accessibility of door knobs. For example, for round door knobs, design changes such as ergonomic shapes and knob extenders can be used to improve motor challenges. Lever door knobs can be made more ergonomic with appropriate handles or arm-actuable attachments. For door knobs placed low, adding alternative operations such as handles or levers can aid accessibility. Finally, painting door knobs in brighter colors would allow for better visibility.",
+        "most_similar_instructions": {
+            "What type of object can be used to improve the accessibility of this object?": 0.42857142857142855,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.42857142857142855,
+            "What can be done to reduce the accessibility challenges of this object?": 0.3846153846153846,
+            "Suggest how to make this object easier to use.": 0.34782608695652173,
+            "How could this product be used to solve this problem?": 0.3333333333333333,
+            "How could this object be used to achieve this outcome?": 0.3333333333333333,
+            "What are the advantages over traditional methods of this object?": 0.3333333333333333,
+            "Name one practicable augmentation that can be added to this object.": 0.32,
+            "What are the benefits of this product?": 0.2857142857142857,
+            "What is the opposite of this word?": 0.2857142857142857
+        },
+        "avg_similarity_score": 0.1769666578913364
+    },
+    {
+        "instruction": "What type of data might be required in order to assess the accessibility of a given object?",
+        "input": "",
+        "output": "In assessing the accessibility of a given object, different types of data might be required. For motor accessibility, data such as the size and shape of the object, the force required to operate it, and the type of motion required to interact with it may be necessary. For visual accessibility, data such as the object's color, size, and placement in relation to other objects, as well as the lighting in the environment, may be necessary. Additionally, data such as user gender, age, and physical ability may be required for an accurate assessment.",
+        "most_similar_instructions": {
+            "What type of object can be used to improve the accessibility of this object?": 0.5806451612903226,
+            "What can be done to reduce the accessibility challenges of this object?": 0.4827586206896552,
+            "What types of design changes could be made to this object to improve accessibility?": 0.3225806451612903,
+            "What can be the consequences of insufficient accessibility?": 0.31999999999999995,
+            "What are the common accessibility challenges associated with this object?": 0.29629629629629634,
+            "What are the advantages over traditional methods of this object?": 0.29629629629629634,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.2580645161290323,
+            "What is the opposite of this word?": 0.25,
+            "What are the effects of noise pollution?": 0.25,
+            "What are the benefits of this product?": 0.25
+        },
+        "avg_similarity_score": 0.15544081371458676
+    },
+    {
+        "instruction": "Can this object be made more accessible with the help of technology?",
+        "input": "object: door knob",
+        "output": "Yes, door knobs can be made more accessible with the help of technology. For example, door knobs can be made more ergonomic with 3D printing technology. Additionally, door knobs could be equipped with intelligent locks that can be operated remotely with voice or touch controls. Finally, door knobs can be fitted with motion activated sensors, allowing them to be opened automatically without the need for touch.",
+        "most_similar_instructions": {
+            "How can we enhance this object to make it more accessible?": 0.43478260869565216,
+            "How can we make this object more inclusive?": 0.4,
+            "What can be the consequences of insufficient accessibility?": 0.4,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.3870967741935484,
+            "Name one way to make this object more accessible.": 0.380952380952381,
+            "Given this object, how can we make it more accessible?": 0.3636363636363636,
+            "If this object is installed in a dark corner, how can it be made more visible?": 0.35714285714285715,
+            "Describe an example of how we can make this object accessible.": 0.34782608695652173,
+            "What can be done to reduce the accessibility challenges of this object?": 0.3333333333333333,
+            "How can we modify this object to make it easier for people with disabilities?": 0.30769230769230765
+        },
+        "avg_similarity_score": 0.17282095690739907
+    },
+    {
+        "instruction": "How can technology be used to make this object more accessible?",
+        "input": "object: door knob",
+        "output": "Technology can be used in different ways to make door knobs more accessible. For example, 3D printing can be used to make door knobs more ergonomic. Intelligent locks can be fitted to door knobs for remote access and control. Motion-activated sensors can also be used that allow a door knob to be opened without touching the knob. Finally, voice-activated door locks can provide access to the door without physical interaction.",
+        "most_similar_instructions": {
+            "How can we make this object more inclusive?": 0.631578947368421,
+            "Name one way to make this object more accessible.": 0.6,
+            "How can we enhance this object to make it more accessible?": 0.5454545454545454,
+            "Describe an example of how we can make this object accessible.": 0.5454545454545454,
+            "Suggest how to make this object easier to use.": 0.5,
+            "What type of object can be used to improve the accessibility of this object?": 0.4799999999999999,
+            "How could this product be used to solve this problem?": 0.47619047619047616,
+            "Given this object, how can we make it more accessible?": 0.47619047619047616,
+            "How could this object be used to achieve this outcome?": 0.47619047619047616,
+            "Provide one example of how this object can be modified to make it more accessible for people with disabilities.": 0.4666666666666667
+        },
+        "avg_similarity_score": 0.20958283988974527
+    },
+    {
+        "instruction": "What are the advantages and disadvantages of using technology to make this object more accessible?",
+        "input": "object: door knob",
+        "output": "Using technology to make door knobs more accessible has a number of advantages and disadvantages. Advantages include improved ergonomics, remote access and control, and the ability to open the door without physical interaction. However, disadvantages include higher costs, potential security risks, and the need for maintenance and repair. Additionally, it may be difficult to ensure standardization and compatibility across different types of technology as well as users' needs and preferences.",
+        "most_similar_instructions": {
+            "What are the advantages over traditional methods of this object?": 0.56,
+            "How can technology be used to make this object more accessible?": 0.5384615384615385,
+            "Name one way to make this object more accessible.": 0.5,
+            "What are the benefits of this product?": 0.4545454545454545,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.4137931034482759,
+            "What is the best way to make an object's accessibility challenges more visible?": 0.4137931034482759,
+            "What are the solutions for this object under this context?": 0.4,
+            "What are the common accessibility challenges associated with this object?": 0.4,
+            "Describe an example of how we can make this object accessible.": 0.3846153846153846,
+            "Change the style of this sentence to make it more persuasive.": 0.3846153846153846
+        },
+        "avg_similarity_score": 0.21178347307138812
+    },
+    {
+        "instruction": "What are the most important considerations when designing this object to be more accessible?",
+        "input": "object: door knob",
+        "output": "When designing door knobs to be more accessible, the most important considerations include ergonomics, motor and visual accessibility, and alternative operations. Additionally, considering the placement of the door knob, its visibility in low-light conditions, and the type of locking mechanism are also important to assess. Furthermore, the use of technology, such as motion activated sensors, intelligent door locks, and remote access and control, should be considered when designing door knobs for accessibility.",
+        "most_similar_instructions": {
+            "What are the advantages and disadvantages of using technology to make this object more accessible?": 0.4827586206896552,
+            "What are the solutions for this object under this context?": 0.41666666666666663,
+            "What are the advantages over traditional methods of this object?": 0.41666666666666663,
+            "What are the common accessibility challenges associated with this object?": 0.41666666666666663,
+            "How can we enhance this object to make it more accessible?": 0.4,
+            "Can this object be made more accessible with the help of technology?": 0.3846153846153846,
+            "What are the benefits of this product?": 0.38095238095238093,
+            "What are the risks associated with this product?": 0.36363636363636365,
+            "What are the types of this object, and what are the unique accessibility challenges?": 0.35714285714285715,
+            "Name one way to make this object more accessible.": 0.34782608695652173
+        },
+        "avg_similarity_score": 0.19930224508860264
+    }
+]
